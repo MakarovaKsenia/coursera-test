@@ -20,7 +20,6 @@
 }
 .navbar-default .navbar-collapse {
     border-color: #000;
-    background-color: #fff;
     padding: 0;
 }
 .nav > li {
@@ -29,6 +28,7 @@
 }
 .navbar-nav {
     margin: 0;
+    background-color: #fff;
 }
 .nav > li:last-child {
     border-bottom: none;
